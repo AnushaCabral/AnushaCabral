@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AnushaCabral
-- 👀 I’m interested in ... SaaS + AI
-- 🌱 I’m currently learning ... Microsoft 365 / AI
-- 💞️ I’m looking to collaborate on ... Information Security / AI
+- 👀 I’m interested in ... AI Engineering & Safety
+- 🌱 I’m currently learning ... Agentic Systems & Multi-Agent Workflows
+- 💞️ I’m looking to collaborate on ... AI, Information Security (Governance, Risk & Compliance)
 - 📫 How to reach me ... @jKage#8358 on Discord
 
 <!---
